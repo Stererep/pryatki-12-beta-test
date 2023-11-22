@@ -1,0 +1,32 @@
+{
+    "name": "Прятки 1.2 beta test",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.34",
+        "tag": "v1.12.34",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/10af8104f5448a04960f46207b98c1823fbe6300",
+        "target": "1.12.46",
+        "pxt": "8.5.46",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
